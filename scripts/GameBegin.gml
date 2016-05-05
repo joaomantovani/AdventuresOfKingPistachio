@@ -1,0 +1,2 @@
+/// GameBegin()
+lives = 5;
